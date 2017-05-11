@@ -6,3 +6,4 @@ Inspired by [@shagunsodhani](https://github.com/shagunsodhani), I am trying a ne
 
 * [Never Ending Learning](https://gist.github.com/Prakhar0409/f72a2780e5e567081bb61dd843fc61bc)
 * [MapReduce: Simplified Data Processing on Large Clusters](https://gist.github.com/Prakhar0409/18d4af9671a7484358bbd12615d2c796)
+* [Epidemic Algorithms for Replicated Database Management](https://gist.github.com/Prakhar0409/1445064bcc15e1f6761cee4756593b1e)
