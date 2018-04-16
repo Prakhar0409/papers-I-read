@@ -9,3 +9,4 @@ Inspired by [@shagunsodhani](https://github.com/shagunsodhani), I am trying a ne
 * [Epidemic Algorithms for Replicated Database Management](https://gist.github.com/Prakhar0409/1445064bcc15e1f6761cee4756593b1e)
 * [The Google Filesystem](https://gist.github.com/Prakhar0409/934d3e0d5de2388b48d476063c99fa9c)
 * [Turney's Algorithm](https://gist.github.com/Prakhar0409/0eff02cccea452a19188322995ea3e03)
+* [Neural Question Generation](https://gist.github.com/Prakhar0409/58111d76ef681b26ff55d0dcb1e376c7)
