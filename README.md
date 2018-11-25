@@ -4,6 +4,7 @@ Inspired by [@shagunsodhani](https://github.com/shagunsodhani), I am trying a ne
 
 ## List of papers
 
+* [Pointer Networks](http://www.prakharagrawal.com/papers-i-read/2018/11/25/Pointer_networks.html)
 * [CAP Theorem](http://www.prakharagrawal.com/papers-i-read/2018/10/14/cap-theorem.html)
 * [Building a Sentiment Summarizer for Local Service Reviews](https://www.prakharagrawal.com/papers-i-read/2018/09/30/Building-A-Sentiment-Summarizer.html)
 * [Frustratingly Easy Domain Adaptation](http://www.prakharagrawal.com/papers-i-read/2018/09/23/Frustratingly-Easy-Domain-Adaptation.html)
