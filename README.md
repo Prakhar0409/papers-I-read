@@ -4,6 +4,7 @@ Inspired by [@shagunsodhani](https://github.com/shagunsodhani), I am trying a ne
 
 ## List of papers
 
+* [DRAIN: A fixed depth tree based online log parsing method](http://www.prakharagrawal.com/papers-i-read/2019/06/18/drain-log-parser.html)
 * [A brief summary of the infamous 'Attention Is All You Need'](http://www.prakharagrawal.com/papers-i-read/2019/03/17/attention-is-all-you-need.html)
 * [An intuitive description of the Paxon part-time parliament](http://www.prakharagrawal.com/papers-i-read/2019/03/10/parttime-parliament-summary.html)
 * [Variational Autoencoders](http://www.prakharagrawal.com/papers-i-read/2018/12/02/Variational-Autoencoders.html)
